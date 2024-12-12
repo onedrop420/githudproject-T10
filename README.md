@@ -1,4 +1,3 @@
-# githudproject-T10
 # Project: To-Do List App
 index.html
 
